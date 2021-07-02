@@ -1,2 +1,3 @@
-# Pagina de Captura
- Exemplo de uma pagina de captura para um workshop
+# Página de Captura
+ Exemplo de uma página de captura para um workshop.
+ Desenvolvi esta página através do curso Programado BR.
