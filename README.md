@@ -1,2 +1,2 @@
 # Exemplo de uma página de captura para um workshop.
- Desenvolvi esta página através do curso Programado BR.
+ Acesse a página [clicando aqui](https://gabrielcostarep.github.io/Pagina-de-Captura/)
