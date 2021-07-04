@@ -9,9 +9,11 @@
 
 ## 🚀 Tecnologias
 
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
 - ✔️ HTML
 - ✔️ CSS
 
 <br>
 
-Feito por Gabriel Costa 👋 [Veja meu Linkedin](https://www.linkedin.com/in/gabrielcostadev/)
+Feito por Gabriel Costa 👋🏾 [Veja meu Linkedin](https://www.linkedin.com/in/gabrielcostadev/)
