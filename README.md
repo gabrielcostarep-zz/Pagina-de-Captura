@@ -1,4 +1,6 @@
- Acesse a página [Clicando Aqui](https://gabrielcostarep.github.io/Pagina-de-Captura/)
+Página desenvolvida para o desafio do curso Desenvolvimento Web Full Stack Programador Br
+
+Acesse a página [Clicando Aqui](https://gabrielcostarep.github.io/Pagina-de-Captura/)
 
  <div align="center" >
   <img src="./Readme-gif.gif" alt="demo-web" height="425">
