@@ -1,6 +1,6 @@
-Página desenvolvida para o desafio do curso Desenvolvimento Web Full Stack Programador Br
+💻 Página desenvolvida para o desafio do curso Desenvolvimento Web Full Stack Programador Br, com o objetivo de aplicarmos os conhecimentos sobre inputs.
 
-Acesse a página [Clicando Aqui](https://gabrielcostarep.github.io/Pagina-de-Captura/)
+➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Pagina-de-Captura/) ⬅️
 
  <div align="center" >
   <img src="./Readme-gif.gif" alt="demo-web" height="425">
