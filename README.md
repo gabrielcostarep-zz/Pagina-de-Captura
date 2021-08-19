@@ -3,8 +3,8 @@
 ➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Pagina-de-Captura/) ⬅️
 
  <div align="center" >
-  <img src="./Readme-gif.gif" alt="demo-web" height="425">
-  <img src="./Readme-cell-gif.gif" alt="demo-mobile" height="425">
+  <img src="./Readme-gif.gif" alt="demo-web" width="1000em">
+  <img src="./Readme-cell-gif.gif" alt="demo-mobile" height="500em">
 </div>
 
 <br>
